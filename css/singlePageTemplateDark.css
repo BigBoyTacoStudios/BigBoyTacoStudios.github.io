@@ -12,6 +12,7 @@ body {
 	margin-left: 0px;
 	font-style: normal;
 	font-weight: 200;
+	background-color: #474747;
 }
 /* Container */
 .container {
@@ -19,7 +20,7 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	height: 1000px;
-	background-color: #FFFFFF;
+	background-color: #474747;
 }
 /* Navigation */
 header {
@@ -124,19 +125,19 @@ ul li:hover a {
 	padding-right: 25px;
 	padding-top: 35px;
 	display: inline-block;
-	background-color: #FFFFFF;
+	background-color: #474747;
 	margin-top: 0px;
 }
 /* Stats Gallery */
 .stats {
-	color: #717070;
+	color: #B3B3B3;
 	margin-bottom: 5px;
 }
 .gallery {
 	clear: both;
 	display: inline-block;
 	width: 100%;
-	background-color: #FFFFFF;
+	background-color: #474747;
 	/* [disabled]min-width: 400px;
 */
 	padding-bottom: 35px;
@@ -155,7 +156,7 @@ ul li:hover a {
 	margin-right: 5px;
 	margin-bottom: 5px;
 	margin-left: 5px;
-	color: #313131;
+	color: #7E7E7E;
 }
 .gallery .thumbnail p {
 	margin-top: 0px;
@@ -196,7 +197,7 @@ ul li:hover a {
 }
 /* More info */
 footer {
-	background-color: #FFFFFF;
+	background-color: #474747;
 	padding-bottom: 35px;
 }
 .footer_column {
@@ -204,14 +205,16 @@ footer {
 	text-align: center;
 	padding-top: 30px;
 	float: none;
+	background-color: #474747;
 }
 footer .footer_column h3 {
 	color: #B3B3B3;
 	text-align: center;
+	background-color: #474747;
 }
 footer .footer_column p {
-	color: #717070;
-	background-color: #FFFFFF;
+	color: #B3B3B3;
+	background-color: #474747;
 	text-align:center;
 }
 .cards {
@@ -229,6 +232,7 @@ footer .footer_column p {
 	margin-left: 20px;
 	margin-right: 20px;
 	text-align:center;
+	background-color: #474747;
 }
 .Theme-button {
 	width: 25;
@@ -247,13 +251,13 @@ footer .footer_column p {
 	letter-spacing: 1px;
 	border: 0px solid #FFFFFF;
 	color: #D44E26;
-	transition: all 0.3s linear;
+	transition: all 0.2s linear;
 	background-color: #313131;
 }
 .Theme-buttom:hover {
 	color: limegreen;
 	cursor: pointer;
-	transition: all 0.3s linear;
+	transition: all 0.2s linear;
 }
 .button {
 	width: 200px;
@@ -343,6 +347,7 @@ nav ul li {
 	padding-right: 0px;
 	padding-bottom: 0px;
 	padding-left: 0px;
+	background-color: #474747;
 }
 .thumbnail {
 	width: 100%;
